@@ -1,0 +1,85 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Ticket]
+@="ActiveXTest1.Ticket"
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Ticket\CLSID]
+@="{923F9067-8D47-3193-B774-5CCD32C92AF2}"
+
+[HKEY_CLASSES_ROOT\CLSID\{923F9067-8D47-3193-B774-5CCD32C92AF2}]
+@="ActiveXTest1.Ticket"
+
+[HKEY_CLASSES_ROOT\CLSID\{923F9067-8D47-3193-B774-5CCD32C92AF2}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="ActiveXTest1.Ticket"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{923F9067-8D47-3193-B774-5CCD32C92AF2}\InprocServer32\1.0.0.0]
+"Class"="ActiveXTest1.Ticket"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{923F9067-8D47-3193-B774-5CCD32C92AF2}\ProgId]
+@="ActiveXTest1.Ticket"
+
+[HKEY_CLASSES_ROOT\CLSID\{923F9067-8D47-3193-B774-5CCD32C92AF2}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Uc]
+@="ActiveXTest1.Uc"
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Uc\CLSID]
+@="{073A987E-2A7C-4874-8BEE-321E04F4E84E}"
+
+[HKEY_CLASSES_ROOT\CLSID\{073A987E-2A7C-4874-8BEE-321E04F4E84E}]
+@="ActiveXTest1.Uc"
+
+[HKEY_CLASSES_ROOT\CLSID\{073A987E-2A7C-4874-8BEE-321E04F4E84E}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="ActiveXTest1.Uc"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{073A987E-2A7C-4874-8BEE-321E04F4E84E}\InprocServer32\1.0.0.0]
+"Class"="ActiveXTest1.Uc"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{073A987E-2A7C-4874-8BEE-321E04F4E84E}\ProgId]
+@="ActiveXTest1.Uc"
+
+[HKEY_CLASSES_ROOT\CLSID\{073A987E-2A7C-4874-8BEE-321E04F4E84E}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Ticket+Menu]
+@="ActiveXTest1.Ticket+Menu"
+
+[HKEY_CLASSES_ROOT\ActiveXTest1.Ticket+Menu\CLSID]
+@="{DACEF4EF-CF38-35A8-8CF1-857613C2F924}"
+
+[HKEY_CLASSES_ROOT\CLSID\{DACEF4EF-CF38-35A8-8CF1-857613C2F924}]
+@="ActiveXTest1.Ticket+Menu"
+
+[HKEY_CLASSES_ROOT\CLSID\{DACEF4EF-CF38-35A8-8CF1-857613C2F924}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="ActiveXTest1.Ticket+Menu"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{DACEF4EF-CF38-35A8-8CF1-857613C2F924}\InprocServer32\1.0.0.0]
+"Class"="ActiveXTest1.Ticket+Menu"
+"Assembly"="ActiveXTest1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///C:/Users/asus/Documents/Visual Studio 2015/Projects/ActiveXTest1/ActiveXTest1/bin/Release/ActiveXTest1.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{DACEF4EF-CF38-35A8-8CF1-857613C2F924}\ProgId]
+@="ActiveXTest1.Ticket+Menu"
+
+[HKEY_CLASSES_ROOT\CLSID\{DACEF4EF-CF38-35A8-8CF1-857613C2F924}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]

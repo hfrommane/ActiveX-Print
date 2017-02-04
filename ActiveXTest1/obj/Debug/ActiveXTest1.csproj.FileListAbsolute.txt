@@ -1,0 +1,10 @@
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\bin\Debug\ActiveXTest1.dll
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\bin\Debug\ActiveXTest1.pdb
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\bin\Debug\ActiveXTest1.tlb
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\obj\Debug\ActiveXTest1.csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\obj\Debug\ActiveXTest1.Uc.resources
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\obj\Debug\ActiveXTest1.csproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\obj\Debug\ActiveXTest1.dll
+C:\Users\asus\documents\visual studio 2015\Projects\ActiveXTest1\ActiveXTest1\obj\Debug\ActiveXTest1.pdb
