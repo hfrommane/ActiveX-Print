@@ -10,7 +10,9 @@ or
 
 Sorry，only Chinese Now .
 
-** English Document provide Later **
+**Core code is here :  ../ActiveXTest1/Uc.cs**
+
+**English Document provide Later**
 
 ## The software framework is：
 ![](https://raw.githubusercontent.com/hfrommane/ActiveX-Print/master/images/%E6%80%BB%E4%BD%93%E6%A1%86%E6%9E%B6.png)
